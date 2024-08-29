@@ -7,7 +7,6 @@ from PIL import Image
 from streamlit_option_menu import option_menu
 import matplotlib.image as mpimg
 import os
-import cv2
 from tensorflow.keras.models import load_model
 import json
 
