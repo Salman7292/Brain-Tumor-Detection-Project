@@ -1,0 +1,9 @@
+requests
+streamlit
+numpy
+matplotlib
+Pillow
+streamlit-option-menu
+tensorflow
+google-generativeai
+ipython
