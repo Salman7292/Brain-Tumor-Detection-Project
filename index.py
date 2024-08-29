@@ -363,7 +363,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 # Sidebar configuration
 with st.sidebar:
     # Display logo image
-    st.image("logo4.png", use_column_width=True)
+    st.image("https://raw.githubusercontent.com/Salman7292/Brain-Tumor-Detection-Project/29fdf15114e9a1f81d02441619176acec3f55dbd/Logo4.png", use_column_width=True)
 
     # Adding a custom style with HTML and CSS for sidebar
     st.markdown("""
